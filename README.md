@@ -1,11 +1,4 @@
-## 👋 Hi, I'm Robert! <br><br>
-I recently completed my Bachelor's degree in **Software Development** from **Western Governors University (WGU)** and have developed a passion for **full-stack web development and design**. As a learner and problem solver at heart, I enjoy working with technologies like **JavaScript, Java, HTML, and CSS** to create innovative solutions.
-
-🔧 My current technical skillset includes:
-- Front-end: **HTML5**, **CSS3**, **JavaScript**
-- Back-end: **Java** 
-- Databases: **MySQL**
-- Tools: **Git**
+## 👋 Hi, I'm Robert!
 
 📚 As a current student at Codeup's coding bootcamp, I'm actively learning and working with HTML, CSS, Bootstrap, JavaScript, jQuery, Java SE, Java EE (Servlets, JSP, J2EE), Spring Boot, MySQL, and Thymeleaf. I'm always looking for opportunities to grow and further develop my skills in these areas, as well as explore new technologies and frameworks.
 
