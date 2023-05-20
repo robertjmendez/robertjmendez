@@ -6,4 +6,8 @@
 🤝 I believe in the power of collaboration and would love to connect with like-minded professionals. If you'd like to work together or simply chat, feel free to reach out to me at robert.j.mendez3@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/robert-mendez-3573bb254/)
 .
 
+
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=robertjmendez&theme=default)](https://git.io/streak-stats) 
 [![Top Langs](https://github-readme-stats-iota-dusky.vercel.app/api/top-langs/?username=robertjmendez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
