@@ -7,7 +7,7 @@
 - **Problem Solving:** I find great satisfaction in tackling complex challenges and finding the right solutions.
 
 
-### 🛠️ Technologies & Tools I Use
+### 🛠️ Technologies I Use
 
  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
