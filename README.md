@@ -1,6 +1,6 @@
 ## <span>&#128075;&#127996;</span> Hi, I'm Robert!
 
-👨🏻‍💻 I'm a Full-Stack Software Engineer with hands-on experience in building web applications. Here's a bit about what I focus on:
+👨🏻‍💻 I'm a Full-Stack Software Developer with hands-on experience in building web applications. Here's a bit about what I focus on:
 
 - **Building Quality Code:** Committed to delivering robust and high-quality code in my projects.
 - **Continuous Learning:** Always working to deepen my understanding of technologies and improve my skills.
