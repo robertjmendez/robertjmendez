@@ -5,7 +5,6 @@
 - **Building Quality Code:** Committed to delivering robust and high-quality code in my projects.
 - **Continuous Learning:** Always working to deepen my understanding of technologies and improve my skills.
 - **Problem Solving:** I find great satisfaction in tackling complex challenges and finding the right solutions.
-- **Growth Mindset**: Dedicated to both personal and professional growth, always striving to be better than yesterday.
 
 
 
